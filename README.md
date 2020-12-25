@@ -6,15 +6,14 @@ I  worked with Software Defined Radios (SDRs) (USRPs X-310, N-210, B-
 work that he did is as follows.
 
 ## Practical work:
-LTE and Wi-Fi spectrum analysis using USRP X-300 and N-210.
- FM transmission and reception using USRP X-310.
- Develop AM Receiver using USRP N-210.
- Audio file transmission and reception using one USRP with multiple modulation schemes.
- Frame Synchronization in OFDM and FBMC based Radio Receiver.
- Implementation Develop blocks in python and C++ for digital signal processing.
+1. LTE and Wi-Fi spectrum analysis using USRP X-300 and N-210.
+2. FM transmission and reception using USRP X-310.
+3. Develop AM Receiver using USRP N-210.
+4. Audio file transmission and reception using one USRP with multiple modulation schemes.
+5. Frame Synchronization in OFDM and FBMC based Radio Receiver.
+6. Implementation Develop blocks in python and C++ for digital signal processing.
 
 ## Research work:
- SDR Deep learning feature engineering in deep learning for signal classification.
- Real-time blind spectrum sensing using USRP.
-SDR FBMC/OFDM.
- Integrated MAC and PHY using USRP.
+1. SDR Deep learning feature engineering in deep learning for signal classification.
+2. Real-time blind spectrum sensing using USRP 
+3. SDR FBMC/OFDM integrated MAC and PHY using USRP.
